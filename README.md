@@ -12,20 +12,23 @@
 ![Rating analysis](https://github.com/user-attachments/assets/22edfe1f-cce8-412b-b4c8-8f24b6147bcb)
 
 
-A collection of interactive Excel dashboards designed to deliver actionable insights across sales performance, product trends, and customer satisfaction.
+A collection of interactive Excel dashboards developed to uncover insights from sales, customer feedback, and product performance data. These dashboards help drive informed decision-making and operational efficiency.
 
-🔹 Key Highlights
-Sales Performance Dashboard
-Tracks $14.46M in total sales across multiple regions, resulting in a 20% improvement in sales efficiency. Enables monitoring of sales trends and team performance through dynamic visuals.
+# 🔹 Project Highlights
 
-Regional Sales Dashboard
-Analyzes $10.95M in net sales, customer behavior, and top-performing cities. Helps decision-makers understand market strengths and optimize regional strategies.
+# ✅ Sales Performance Dashboard
+-Tracked $14.46M in total sales across multiple regions
+-Achieved a 20% improvement in sales efficiency
+-Includes dynamic visuals to monitor sales trends and team productivity
 
-Product Analysis Dashboard
-Offers granular insights into 6,014 items sold, highlighting top-selling products, demand patterns, and market opportunities.
+# 📦 Product Insights Dashboard
+-Provides detailed analysis of 6,014 items sold
+-Identifies top-selling products and evolving market trends
 
-Customer Rating Dashboard
-Evaluates 2,630 orders and feedback ratings to measure customer satisfaction, identify service gaps, and improve operational processes.
+# ⭐ Customer Ratings Dashboard
+-Evaluates 2,630 orders and associated feedback ratings
+-Delivers insights into customer satisfaction and operational performance
+
 ---
 
 ## 🏗 **Project Structure**
