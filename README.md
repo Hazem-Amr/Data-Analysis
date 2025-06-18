@@ -12,7 +12,8 @@
 ![Rating analysis](https://github.com/user-attachments/assets/22edfe1f-cce8-412b-b4c8-8f24b6147bcb)
 
 
-A collection of interactive Excel dashboards developed to uncover insights from sales, customer feedback, and product performance data. These dashboards help drive informed decision-making and operational efficiency.
+---A collection of interactive Excel dashboards developed to uncover insights from sales, customer feedback, and product performance data. These dashboards help drive informed decision-making and operational efficiency.
+---
 
 # 🔹 Project Highlights
 
